@@ -1,5 +1,5 @@
 import React from 'react';
-import logotaza from '../../images/logotaza.png';
+import logotaza from '../../assets/logotaza.png';
 import { CartWidget } from "../CartWidget/CartWidget";
 
 export const Navbar = () => {
